@@ -9,9 +9,9 @@
 _A recreation of Tap Room class Angular project done in React_
 
 ## Project Structure
-![](src\assets\images\component-tree.jpg)
+![](src/assets/images/component-tree.jpg)
 
-![](src\assets\images\tap-room-root-structure.jpg)
+![](src/assets/images/tap-room-root-structure.jpg)
 
 ## React Notes:
 _Difference between Angular and React_
